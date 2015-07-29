@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/demo/resources">
+        <file>arrow.png</file>
+        <file>apalis-imx6d.jpg</file>
+        <file>apalis-imx6q.jpg</file>
+        <file>apalis-t30.jpg</file>
+        <file>arrowleft.png</file>
+        <file>colibri-imx6dl.jpg</file>
+        <file>colibri-imx6s.jpg</file>
+        <file>colibri-t20.jpg</file>
+        <file>colibri-t30.jpg</file>
+        <file>colibri-vf50.jpg</file>
+        <file>colibri-vf61.jpg</file>
+        <file>progressbar_blue.png</file>
+        <file>Toradex.png</file>
+        <file>Toradex_Down.png</file>
+        <file>toradex-logo-white.png</file>
+    </qresource>
+</RCC>
