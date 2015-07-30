@@ -1,6 +1,6 @@
 # qt-dual-display-demo
 
-This demo aims to provide an overview of the capabilites which Toradex Colibri iMX6 module has to run applications  on dual display eg. LCD display and HDMI monitor. 
+This demo aims to provide an overview of the capabilites which Toradex Colibri iMX6 module has to run applications  on an LCD display and stream videos on a HDMI monitor. 
 
 ##Steps to run the demo##
 
@@ -20,11 +20,9 @@ To add that packege you have to add on local.conf
 
 IMAGE_INSTALL_append = " qt-dual-display-demo "
 
-By default that recipe configure the screen size to 800x480.
+By default that recipe configure the screen size to 800x480. Other screen resolutions have to be implemented.
 
-You have also the option to use 1024x600, to do it change the file:
 
-vi meta-toradex-extra/recipes-qt/qt-automotive-cluster-demo/qt-dual-display-demo_0.1.bb
+<a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQINWt0Z1pGcUs3V2s"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQINWt0Z1pGcUs3V2s"/></a>
 
---EXTRA_QMAKEVARS_PRE += "CONFIG+=no-webcam"  
-++EXTRA_QMAKEVARS_PRE += "CONFIG+=no-webcam DEFINES+=RESOLUTION_1024x600"
+<a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIZERWZzVNZnNmRjA"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIZERWZzVNZnNmRjA"/></a>
