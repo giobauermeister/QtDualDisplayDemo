@@ -26,5 +26,3 @@ By default that recipe configure the screen size to 800x480. Other screen resolu
 <a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQINWt0Z1pGcUs3V2s"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQINWt0Z1pGcUs3V2s"/></a>
 
 <a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIZERWZzVNZnNmRjA"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIZERWZzVNZnNmRjA"/></a>
-
-<a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIY1B5UDEtTE5PQlVXSEVXanlWZW4xYVhuR2pN"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIY1B5UDEtTE5PQlVXSEVXanlWZW4xYVhuR2pN"/></a>
